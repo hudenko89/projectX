@@ -231,6 +231,21 @@ ul li{
 	margin: 0px 10px;
 }
 
+#relatedItems{
+    display: inline-block;
+	width: 80px;
+	vertical-align: top;
+	margin-left: 20px;
+}
+
+.items{
+    margin: 20px 0px;
+	font-size: 12px;
+}
+
+.items img{
+    width: 100%;
+}
 /*---/content---*/
 
 /*---footer---*/
