@@ -220,7 +220,6 @@
 #description{
     display: inline-block;
     width: 370px;
-    height: 500px;
     vertical-align: top;
     border-right: 1px dotted #999;
 }
@@ -260,9 +259,10 @@
 }
 
 #tabHeader{
-    margin-top:30px;
+    margin-top: 10px;
     border-bottom: 1px solid #bbb;
-    height:29px;
+    margin-right: 10px;
+    height: 29px;
 }
 
 #desc1, #desc2, #desc3{
@@ -290,16 +290,17 @@
 }
 
 #tabCont{
-    padding: 25px;
+    padding: 10px;
 }
 
 #tabCont p{
     font-weight: bold;
+    font-size: 12px;
 }
 
 #tabCont ul li{
     margin-left:25px;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 #moreInfo{
@@ -317,11 +318,12 @@
 }
 
 #socialLinks p{
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .bordered{
     border-bottom: 1px solid #aaa;
+    margin-right: 10px;
 }
 
 .price{
