@@ -93,12 +93,12 @@
     font-size: 14px;
     padding: 5px;
     color: #aaa;
-    float:right;
-    height:15px;
+    float: right;
+    height: 15px;
 }
 
 #goButton{
-    float:right;
+    float: right;
     text-decoration: none;
     color: #fff;
     background: #C0BA1E; 
@@ -207,10 +207,10 @@ ul li{
 }
 
 #rewiewStars{
-    display:inline-block;
-	vertical-align:top;
-	width:55%;
-	height:70px;
+    display: inline-block;
+	vertical-align: top;
+	width: 55%;
+	height: 70px;
 }
 
 .price{
