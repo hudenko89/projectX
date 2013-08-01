@@ -402,6 +402,23 @@
     width: 650px;
     height: 200px;
 }
+
+.boxRight h4{
+    margin: 10px;
+}
+
+.boxRight p{
+    font-size: 12px;
+    margin: 10px;
+}
+
+
+#productReview{
+    height: 30px;
+    background: orange;
+    text-align: right;
+    padding-top: 5px;
+}
 /*---/content---*/
 
 /*---footer---*/
